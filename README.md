@@ -5,5 +5,5 @@
     minio
 </h1>
 <h4 align="center">
-    springboot中使用minio(存储桶), 完成文件上传, ,下载, 创建、检测桶存在等功能
+    springboot中使用minio, 完成文件上传, ,下载, 创建、检测桶存在等功能
 </h4> 
